@@ -8,7 +8,7 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
   
 </h1>
 
-- 🔭 I’m currently working on [India Today Clone](https://venomous-sense-8377-india-news.netlify.app/)
+- 🔭 I’m currently working on [Expedia Clone](https://allseasonhotels.vercel.app/)
 
 - 🌱 I’m currently learning **React, MongoDB, NodeJS, ExpressJS**
 
