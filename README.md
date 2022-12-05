@@ -7,7 +7,10 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
    
   
 </h1>
-
+ 🌍 I am from Kolhapur, Maharashtra.
+ 
+ 🎨 My Hobbies are travelling, watching F1, Riding Bikes.
+ 
 - 🔭 I’m currently working on [Expedia Clone](https://allseasonhotels.vercel.app/)
 
 - 🌱 I’m currently learning **React, MongoDB, NodeJS, ExpressJS**
