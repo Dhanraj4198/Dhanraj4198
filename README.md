@@ -28,7 +28,7 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 
 - 🔭 My Other Project [Dot & Key Clone](https://dot-and-key-dhanraj-jagtap.netlify.app/)
 
-- 🔭 My Other Project [Dot & Key Clone](https://gorgeous-daffodil-6e6d25.netlify.app/)
+- 🔭 My Other Project [Geekbuying Clone](https://gorgeous-daffodil-6e6d25.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://dhanraj4198.github.io/](https://dhanraj4198.github.io/)
 
