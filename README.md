@@ -34,7 +34,7 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 
 - 📫 How to reach me **jagtapdhanraj116@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jeoGnGCeVEt6aq0nSq2dJ0CFsdJYmlXN/view?usp=share_link](https://drive.google.com/file/d/1jeoGnGCeVEt6aq0nSq2dJ0CFsdJYmlXN/view?usp=share_link)
+- 📄 Know about my experiences https://drive.google.com/drive/folders/14U3RjY3F7GJC38QeiAbK70d7jN31Zi10?usp=share_link
 
 
 
@@ -56,6 +56,6 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 <br/>
 <h3 align="left">Github Stats:</h3>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanraj4198&show_icons=true" alt="dhanraj4198" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanraj4198&theme=nord_bright" alt="dhanraj4198" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanraj4198&" alt="dhanraj4198" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhanraj4198&theme=nord_bright" alt="dhanraj4198" /></p>
